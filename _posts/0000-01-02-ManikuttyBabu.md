@@ -6,7 +6,7 @@ title: "Welcome to our second slide!"
 
 ---
 
-Hai Iam manikutty Babu
+Hai Iam from Kottayam
 
 Use the left arrow to go back!
 
